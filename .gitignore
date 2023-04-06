@@ -1,0 +1,99 @@
+# Ignorar archivos compilados y generados
+bin/
+obj/
+node_modules/
+build/
+dist/
+
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.sln.docstates
+
+# Ignorar archivos de caché y respaldo
+[Tt]humbs.db
+*.dbmdl
+*.pssproj
+*.bak
+*.cache
+*.dbproj.schemaview
+*.docstates
+*.log
+*.orig
+*.psess
+*.rdl.data
+*.sln.docstates.user
+*.vsp
+*.vssscc
+*.tmp
+*.vbw
+*.ipch
+*.ncb
+*.VC.db
+*.VC.opendb
+*.sdf
+*.sln.ide
+
+# Ignorar archivos de configuración de TypeScript
+*.tsconfig.tsbuildinfo
+
+# Ignorar archivos de configuración de npm
+package-lock.json
+
+# Ignorar archivos de configuración de yarn
+yarn.lock
+
+# Ignorar archivos de caché de ReSharper
+_resharper*
+
+# Ignorar archivos de caché de TestDriven.NET
+TestResults/
+
+# Ignorar archivos de caché de dotCover
+*.dotCover
+
+# Ignorar archivos de caché de OpenCover
+coverage/
+
+# Ignorar archivos de caché de NCover
+*.nccov
+
+# Ignorar archivos de caché de TeamCity
+_report*
+*.tclog
+*.trx
+
+# Ignorar archivos de caché de JustCode
+_JustCode
+
+# Ignorar archivos de caché de GhostDoc
+~W*.*
+
+# Ignorar archivos de caché de RIA Services
+Generated_Code/
+
+# Ignorar archivos de caché de SQL Server
+*.mdf
+*.ldf
+
+# Ignorar archivos de caché de ReSharper
+_ReSharper*/
+
+# Ignorar archivos de caché de StyleCop
+StyleCop.Cache
+
+# Ignorar archivos de caché de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de caché de Webpack
+.cache/
+dist/
+
+# Ignorar archivos de caché de ESLint
+.eslintcache/
+
+# Ignorar archivos de caché de Jest
+.cache/
+coverage/
